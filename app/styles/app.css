@@ -1,0 +1,17 @@
+
+.top-bar, .top-bar ul {
+  background: #333333;
+}
+
+.active-link {
+    font-weight: bold;
+}
+
+.top-bar .menu-text {
+  color: white;
+}
+
+.menu > .menu-text > a {
+   display: inline;
+  padding: 0;
+}
